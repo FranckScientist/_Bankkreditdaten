@@ -1,5 +1,4 @@
-# _Bankkreditdaten
-Kreditvorhersagen
+# Kreditvorhersagen
 
 Eine der Branchen, die sich durch die jüngsten Fortschritte beim maschinellen Lernen am meisten verändert hat, ist das Finanzwesen. Ob es um die Vorhersage von Aktienkursen geht oder, in unserem Fall, um die Vorhersage, ob einem Kunden einen Kredit gewährt wird - kann maschinelles Lernen ein nützliches Werkzeug zur Verbesserung der Rentabilität sein. 
 
